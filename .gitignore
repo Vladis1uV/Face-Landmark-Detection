@@ -209,3 +209,9 @@ __marimo__/
 
 # datasets
 data/
+data/**
+
+
+# training outputs
+checkpoints/
+runs/
