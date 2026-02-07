@@ -11,9 +11,9 @@ Train and evaluate a 68-point facial landmark detector on the 300W (iBUG) datase
 ## Project Structure
 - `src/models/` - model definitions
 - `src/datamodules/` - dataset, transforms, training, evaluation
-- `data/` - dataset root (not committed)
-- `checkpoints/` - saved weights (not committed)
-- `runs/` - tensorboard logs and eval visuals (not committed)
+- `data/` - dataset root
+- `checkpoints/` - saved weights
+- `runs/` - tensorboard logs and eval visuals
 
 ## Requirements
 Install Python dependencies:
